@@ -1,0 +1,155 @@
+.my-btn{
+    border-color:hsl(322, 100%, 66%) !important;
+    color: hsl(322, 100%, 66%) !important;
+    border-radius: 20px !important;
+}
+body{
+    margin: auto;
+    overflow-x: hidden;
+}
+.my-btn:hover{
+    border-color:hsl(322, 100%, 66%) !important;
+    color: white !important;
+    background-color: hsl(322, 100%, 66%) !important;
+
+}
+.my-container{
+    height: 50vh !important;
+    margin-top: 5% !important;
+    
+}
+.font-mybold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700 !important;
+    font-style: normal;
+  }
+  .my-btn1{
+    background-color:hsl(322, 100%, 66%) !important;
+    color: white !important;
+    border-radius: 20px !important;
+    border-color: hsl(322, 100%, 66%) !important;
+    box-shadow:rgba(0, 0, 0, 0.1) 0px 4px 12px !important;
+    width: 50% !important;
+    padding: 2% !important;
+
+  }
+  .subtext{
+    margin: 5% !important;
+    
+  }
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .my-title-1{
+    font-size: 90px;
+    font-weight: 600;
+  }
+  .my-p1{
+    font-weight: 200 ;
+    font-size: 20px;
+  }
+
+  .icon-1{ 
+
+    height: 15%;
+    width: auto;
+    position: relative;
+    right: 15%;
+  }
+  .main-image{
+    margin-bottom: 10% !important;
+  }
+  .my-btn2{
+    background-color:hsl(322, 100%, 66%) !important;
+    color: white !important;
+    border-radius: 20px !important;
+    border-color: hsl(322, 100%, 66%) !important;
+    box-shadow:rgba(0, 0, 0, 0.1) 0px 4px 12px !important;
+    padding: 2% !important;
+    width: 50%;
+  }
+  .subtext1{
+    width: 200%;
+    align-items: center;;
+  }
+  .font-mybold1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800 !important;
+    font-style: normal;
+    font-size: 35px;
+  }
+/* Your existing CSS ... */
+
+.my-banner {
+    margin-bottom: 5% !important;
+    text-align: left;
+    width: 100%;
+  }
+  
+  .my-banner .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .my-banner .col-lg-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .text-content {
+    max-width: 80%;
+  }
+  
+  .font-mybold1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800 !important;
+    font-style: normal;
+    font-size: 2rem;
+   
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  .c1{
+    background-color: hsl(207, 100%, 98%);
+    
+  }
+
+  .c2{
+    background-color: hsl(192, 100%, 9%);
+    
+    
+  }
+  .last-container{
+    color: white;
+  }
+  .my-btn3{
+    background-color:hsl(322, 100%, 66%) !important;
+    color: white !important;
+    border-color: hsl(322, 100%, 66%) !important;
+    box-shadow:rgba(0, 0, 0, 0.1) 0px 4px 12px !important;
+    
+    
+  }
+  .font-mybold2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800 !important;
+    font-style: normal;
+    font-size: 2rem;
+  }
+  .pl-1{
+    width:"100";
+  }
+.svg-color{
+    fill: white;
+}
+
+ 
